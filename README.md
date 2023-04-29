@@ -8,3 +8,5 @@ Allows students to view their progress and attendance dynamically as and when cr
 
 FINAL REPORT, PPT AND UI BASED PRORTOTYPES ARE INSIDE THE ZIP FILE Other Deliverables.zip
 LINK TO CODEBASE IS INSIDE THE DOCS FILE Codebase Link.docx
+
+Presentation Link : https://1drv.ms/p/s!AsCk5rkArd6pjkdhWUGEIDTFcRSk
